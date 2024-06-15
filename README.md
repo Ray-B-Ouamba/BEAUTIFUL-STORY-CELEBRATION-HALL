@@ -12,8 +12,7 @@ Welcome to The Beautiful Story Celebration Hall, where elegance meets celebratio
 * JAVASCRIPT
 
 ## OPTIMIZATIONS
-* We could have included more sharing buttons (e.g., Facebook, Pinterest) instead of just one (Twitter).
-* When the quote is shared, there are no quotation marks, so we may add them.
+* "The Beautiful Story Celebration Hall" currently does not utilize social media platforms like Facebook or Instagram, which is why we do not have a dedicated social media section at this time.
 
 ## LESSONS LEARNED:
 * How to display the content from the API on a website using Javascript.
