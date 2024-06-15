@@ -15,7 +15,7 @@ Welcome to The Beautiful Story Celebration Hall, where elegance meets celebratio
 * "The Beautiful Story Celebration Hall" currently does not utilize social media platforms like Facebook or Instagram, which is why we do not have a dedicated social media section at this time.
 
 ## LESSONS LEARNED:
-* How to display the content from the API on a website using Javascript.
+* How to adjust the size of the video both in browser and phone size.
 * How to share content from your website to an another website.
 
 ## OTHER PROJECT:
