@@ -1,7 +1,7 @@
 # BEAUTIFUL-STORY-CELEBRATION-HALL
 
 
-Welcome to The Beautiful Story Celebration Hall, where elegance meets celebration. Nestled in Zopah, our hall offers a timeless setting for weddings, anniversaries, and all your special occasions. With customizable spaces and exquisite decor, we tailor each event to reflect your unique story. Our dedicated team ensures seamless planning and execution, allowing you to savor every moment with loved ones. Discover a venue where every celebration becomes a beautiful chapter in your life's story.
+Welcome to The Beautiful Story Celebration Hall, where elegance meets celebration. Nestled in Zopah,Calavi, our hall offers a timeless setting for weddings, anniversaries, and all your special occasions. With customizable spaces and exquisite decor, we tailor each event to reflect your unique story. Our dedicated team ensures seamless planning and execution, allowing you to savor every moment with loved ones. Discover a venue where every celebration becomes a beautiful chapter in your life's story.
 
 **PROJECT LINK:** https://ray-b-ouamba.github.io/DAILY-MOOD-MELDER-APP/
 
