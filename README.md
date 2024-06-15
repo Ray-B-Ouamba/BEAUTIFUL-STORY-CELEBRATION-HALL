@@ -9,6 +9,7 @@ Welcome to The Beautiful Story Celebration Hall, where elegance meets celebratio
 ## TECH USED:
 * HTML
 * CSS
+* SCSS
 * JAVASCRIPT
 
 ## OPTIMIZATIONS
